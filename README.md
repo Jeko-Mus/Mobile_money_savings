@@ -1,4 +1,4 @@
-# Mobile_money_savings
+# Mobile_money_savings_Analysis
 Impact of mobile money on savings
 
 This paper was my Masters thesis topic. Does digital financial inclusion through mobile money accounts have an effect on savings in Zimbabwe?
